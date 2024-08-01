@@ -1,4 +1,4 @@
-# PROJECT_ARTICLE_DIO
+# Projeto de artigo com inteligencia artificial
 ## Introdução
 
 Projeto de desenvolvimento de artigo com a utilização de inteligências artificiais.
